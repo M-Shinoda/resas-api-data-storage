@@ -1,0 +1,5 @@
+__pycache__
+.env*
+response/*
+!response/.gitkeep
+.DS_Store
